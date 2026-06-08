@@ -1,0 +1,79 @@
+# מנתחת התנהגות עתידנית — Generative Engine Optimization Map
+
+> A premium, futuristic personal branding website for Sarah Moshe, a behavioral analyst. The brand exudes luxury and sophistication combined with a forward-thinking, cutting-edge aesthetic. The identity blends scientific expertise with high-end visual appeal, projecting authority, precision, and an innovative approach to understanding human behavior.
+
+---
+
+## Pages
+
+### בית
+https://-9f849339.zappy5.app
+שרה משה, מנתחת התנהגות מוסמכת, חושפת את הדפוסים הסמויים שמעצבים את חייכם. ייעוץ התנהגותי מדויק, חדשני ויוקרתי לאנשים פרטיים וארגונים. הצעד הראשון לשינוי מתחיל כאן.
+
+### שירותים
+https://-9f849339.zappy5.app/services
+מפתרונות ניתוח התנהגות לילדים עם צרכים מיוחדים ועד לייעוץ התנהגותי ארגוני פורץ דרך – חבילות שירות יוקרתיות המשלבות מדע, דיוק וחזית החדשנות. בחרו את המסלול שלכם להצלחה.
+
+### אודות
+https://-9f849339.zappy5.app/about
+שרה משה, מנתחת התנהגות עתידנית, מגשרת בין מדע ההתנהגות לחזית החדשנות. גלו את הסיפור, הפילוסופיה והמומחיות שמאחורי הגישה פורצת הדרך שמשנה חיים וארגונים.
+
+### צור קשר
+https://-9f849339.zappy5.app/contact
+מוכנים לפענח את ההתנהגות שלכם ברמה אחרת? השאירו פרטים לשיחת ייעוץ התנהגותי ראשונית עם שרה משה. התחילו מסע מדויק, יוקרתי ומשנה מציאות עוד היום.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9f849339.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9f849339.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9f849339.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-9f849339.zappy5.app/contact
+- Endpoint: https://-9f849339.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `subject` (select)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מנתחת התנהגות עתידנית
+A premium, futuristic personal branding website for Sarah Moshe, a behavioral analyst. The brand exudes luxury and sophistication combined with a forward-thinking, cutting-edge aesthetic. The identity blends scientific expertise with high-end visual appeal, projecting authority, precision, and an innovative approach to understanding human behavior.
+
+## Target Audience
+- מחפשי טיפול ארגוני
+- הורים לילדים עם צרכים מיוחדים
+- אנשים בעלי הון גבוה
+
+## Industry
+Behavioral Analysis / Psychology Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9f849339.zappy5.app/sitemap.xml
+- Robots: https://-9f849339.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9f849339.zappy5.app/llms-full.txt
