@@ -2,13 +2,13 @@
 
 A premium, futuristic personal branding website for Sarah Moshe, a behavioral analyst. The brand exudes luxury and sophistication combined with a forward-thinking, cutting-edge aesthetic. The identity blends scientific expertise with high-end visual appeal, projecting authority, precision, and an innovative approach to understanding human behavior.
 
-Source: https://-9f849339.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את המדע שמאחורי ההתנהגות — מנתחת התנהגות עתידנית
 
-URL: https://-9f849339.zappy5.app
+URL: https://example.com
 Description: שרה משה, מנתחת התנהגות מוסמכת, חושפת את הדפוסים הסמויים שמעצבים את חייכם. ייעוץ התנהגותי מדויק, חדשני ויוקרתי לאנשים פרטיים וארגונים. הצעד הראשון לשינוי מתחיל כאן.
 
 גלו את המדע שמאחורי ההתנהגות — מנתחת התנהגות עתידנית
@@ -311,7 +311,7 @@ Description: שרה משה, מנתחת התנהגות מוסמכת, חושפת �
 
 ## פתרונות ניתוח התנהגות שמותאמים רק לכם — מנתחת התנהגות עתידנית
 
-URL: https://-9f849339.zappy5.app/services
+URL: https://example.com/services
 Description: מפתרונות ניתוח התנהגות לילדים עם צרכים מיוחדים ועד לייעוץ התנהגותי ארגוני פורץ דרך – חבילות שירות יוקרתיות המשלבות מדע, דיוק וחזית החדשנות. בחרו את המסלול שלכם להצלחה.
 
 פתרונות ניתוח התנהגות שמותאמים רק לכם — מנתחת התנהגות עתידנית
@@ -598,7 +598,7 @@ Description: מפתרונות ניתוח התנהגות לילדים עם צרכ
 
 ## הכירו את המומחית שמפענחת התנהגות — מנתחת התנהגות עתידנית
 
-URL: https://-9f849339.zappy5.app/about
+URL: https://example.com/about
 Description: שרה משה, מנתחת התנהגות עתידנית, מגשרת בין מדע ההתנהגות לחזית החדשנות. גלו את הסיפור, הפילוסופיה והמומחיות שמאחורי הגישה פורצת הדרך שמשנה חיים וארגונים.
 
 הכירו את המומחית שמפענחת התנהגות — מנתחת התנהגות עתידנית
@@ -881,7 +881,7 @@ Description: שרה משה, מנתחת התנהגות עתידנית, מגשרת
 
 ## הזמינו שיחת אבחון התנהגותי ראשונית — מנתחת התנהגות עתידנית
 
-URL: https://-9f849339.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים לפענח את ההתנהגות שלכם ברמה אחרת? השאירו פרטים לשיחת ייעוץ התנהגותי ראשונית עם שרה משה. התחילו מסע מדויק, יוקרתי ומשנה מציאות עוד היום.
 
 הזמינו שיחת אבחון התנהגותי ראשונית — מנתחת התנהגות עתידנית
@@ -1172,7 +1172,7 @@ Description: מוכנים לפענח את ההתנהגות שלכם ברמה א�
 
 ## מדיניות פרטיות
 
-URL: https://-9f849339.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1406,7 +1406,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-9f849339.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1649,7 +1649,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-9f849339.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
